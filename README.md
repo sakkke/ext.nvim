@@ -1,5 +1,5 @@
 # ext.nvim
-[![ext.nvim's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=ext.nvim's%20Tech%20Stack&lineCount=1&theme=github_dark&align=left&line1=lua,lua,auto;)](https://github-readme-tech-stack.vercel.app/api/cards?title=ext.nvim's%20Tech%20Stack&lineCount=1&theme=github_dark&align=left&line1=lua,lua,auto;)
+[![ext.nvim's Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=ext.nvim's%20Tech%20Stack&lineCount=1&theme=github_dark&align=left&line1=lua,lua,auto;neovim,neovim,auto;)](https://github-readme-tech-stack.vercel.app/api/cards?title=ext.nvim's%20Tech%20Stack&lineCount=1&theme=github_dark&align=left&line1=lua,lua,auto;neovim,neovim,auto;)
 
 ext.nvim is a string based simple Neovim plugin manager.
 
