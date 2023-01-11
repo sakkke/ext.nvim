@@ -19,7 +19,7 @@ ext 'catppuccin/nvim as catppuccin'
 -- Manual dependencies
 -- Branch syntax
 ext 'nvim-tree/nvim-tree.lua@nightly'
-ext 'nvim-tree/nvim-web-devicons'
+  ext 'nvim-tree/nvim-web-devicons'
 
 -- Duplicates will be ignored
 ext 'nvim-tree/nvim-web-devicons'
